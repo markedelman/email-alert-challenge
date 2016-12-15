@@ -1,1 +1,7 @@
-.env
+
+# API Public Key (SMTP username)
+# 6a2acf36e1c9c061b57cb10661a72cc3
+
+# API Secret Key (SMTP password)
+# 42009ce6d7e32893e761d1631f8637e5
+
